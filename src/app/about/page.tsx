@@ -40,7 +40,12 @@ export default function AboutPage() {
         alma atrapada en el sistema.  
       </p>
 
-      <p className="text-lg text-zinc-300 leading-relaxed">
+      <p className="text-lg text-zinc-300 leading-relaxed
+          bg-zinc-900/50
+          border border-zinc-800
+          rounded-2xl
+          p-6
+          shadow-sm">
         Evaristo es un refugio que encontré jugando en teatro, una voz distinta a la mia, 
         una perfo que abrazo para habitar el arte y la reflexión. Es un poco lo que soy 
         sin esa expectativa de ser algo. Es un ente que rescata esas fascetas que voy dejando 
