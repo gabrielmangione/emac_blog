@@ -1,6 +1,5 @@
 import PostCard from "@/src/components/PostCard";
 import Image from "next/image";
-import { Analytics } from "@vercel/analytics/next"
 
 import { getAllPosts } from "@/src/lib/post";
 
